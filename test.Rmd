@@ -14,6 +14,7 @@ Add something here
 summary(cars)
 ```
 
+I will add something else here for commit 3.
 ## Including Plots
 
 You can also embed plots, for example:
